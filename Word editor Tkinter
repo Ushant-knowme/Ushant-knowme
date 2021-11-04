@@ -1,8 +1,8 @@
-from tkinter import
-from tkinter.filedialog import 
-from tkinter.messagebox import 
+from tkinter import *
+from tkinter.filedialog import *
+from tkinter.messagebox import *
 from tkinter.font import Font
-from tkinter.scrolledtext import 
+from tkinter.scrolledtext import *
 import file_menu
 import edit_menu
 import format_menu
